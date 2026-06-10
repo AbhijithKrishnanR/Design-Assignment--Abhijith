@@ -15,6 +15,9 @@ A D (Data) Flip-Flop is a sequential circuit that stores one bit of data. The ou
 | ↑          | 0 | 0       | 1          |
 | ↑          | 1 | 1       | 0          |
 
+<img width="1260" height="613" alt="image" src="https://github.com/user-attachments/assets/70bb982a-f137-4ae6-a0d8-4c3a46a75c9e" />
+
+
 
 ## Result
 
