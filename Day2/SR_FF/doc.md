@@ -31,6 +31,8 @@ Depending on the values of S and R, the flip-flop can set, reset, hold its previ
 
 * **Q** : Main output
 * **Q̅ (Qbar)** : Complement of Q
+  <img width="1227" height="576" alt="image" src="https://github.com/user-attachments/assets/17aef9fc-dc31-4be1-952d-a43ac7d99ff3" />
+
 
 ## Operation
 
