@@ -34,9 +34,10 @@ The encoder generates a 2-bit binary code corresponding to the active input.
 * When Input `0100` is applied, the output is `10`.
 * When Input `1000` is applied, the output is `11`.
 
-## Expected Output
+## Output
 
-The encoder should generate the correct 2-bit binary code corresponding to the active input line. Only one input must be active at a time for proper operation.
+<img width="1255" height="653" alt="image" src="https://github.com/user-attachments/assets/6cb349c5-3eaf-4425-b32a-2062335de595" />
+
 
 ## Applications
 
