@@ -33,6 +33,8 @@ The register operates according to the selected mode and updates its contents on
 
 * **sout** : Serial output
 * **pout[3:0]** : Parallel output
+  <img width="1260" height="681" alt="image" src="https://github.com/user-attachments/assets/9c286830-d843-41c5-9f47-280eafc6b015" />
+
 
 ## Operation
 
