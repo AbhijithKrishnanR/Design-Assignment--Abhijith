@@ -34,10 +34,6 @@ The correction logic detects this condition and adds 0110 to the intermediate su
 
 ### Outputs
 
-| Signal   | Description    |
-| -------- | -------------- |
-| Sum[3:0] | BCD Sum output |
-| Cout     | Carry output   |
 <img width="1457" height="707" alt="image" src="https://github.com/user-attachments/assets/b3fdcfcd-4fed-44c7-92b3-d0c6347d7eae" />
 
 
@@ -73,15 +69,6 @@ If a carry is generated during the first addition, correction is automatically a
 4. Run behavioral simulation.
 5. Observe the Sum and Carry outputs.
 6. Verify that all outputs represent valid BCD values.
-
-## Expected Output
-
-* 5 + 4 = 9 → No correction required.
-* 7 + 5 = 12 → Correction applied.
-* 8 + 8 = 16 → Correction applied.
-* 9 + 9 = 18 → Correction applied.
-
-The output should always be a valid BCD representation.
 
 ## Applications
 
