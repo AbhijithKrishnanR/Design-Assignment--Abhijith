@@ -140,23 +140,8 @@ The read enable signal becomes active only after a predefined delay period.
 <img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/576ffbb8-829f-4371-8a77-d186d07f504b" />
 
 
-## Advantages
-
-* Modular architecture
-* Reliable data buffering
-* Controlled data flow
-* Easy scalability
-* Suitable for FPGA implementation
-
-## Applications
-
-* Face recognition preprocessing systems
-* Image processing pipelines
-* Video frame buffering
-* Embedded vision systems
-* Real-time data acquisition
-* Communication systems
-* FPGA-based intelligent applications
+## Synsthesis
+<img width="1917" height="991" alt="image" src="https://github.com/user-attachments/assets/a26181d7-1a91-4da2-90db-526c4b30901e" />
 
 ## Result
 
