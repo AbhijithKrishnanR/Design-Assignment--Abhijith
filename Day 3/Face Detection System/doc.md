@@ -136,6 +136,14 @@ The read enable signal becomes active only after a predefined delay period.
 6. Observe data transfer through the pipeline.
 7. Verify output generation through the FSM.
 
+   
+   <img width="582" height="335" alt="Screenshot 2026-06-11 220409" src="https://github.com/user-attachments/assets/86d5d1ed-e44e-4d5a-ae4b-6045f3598800" />
+
+
+   <img width="668" height="515" alt="image" src="https://github.com/user-attachments/assets/a7b5cf5b-255c-4584-bed2-58e296a84752" />
+
+
+
 ##  Output
 <img width="1918" height="1018" alt="image" src="https://github.com/user-attachments/assets/576ffbb8-829f-4371-8a77-d186d07f504b" />
 
