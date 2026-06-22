@@ -12,7 +12,7 @@ The work emphasizes RTL design, constrained random verification, and testbench a
 
 * **Name:** Abhijith Krishnan R
 * **Discipline:** Electronics and Communication Engineering
-* Institution:Muthoot Institute of Technology and Science (MITS)
+* Institution: Muthoot Institute of Technology and Science (MITS)
 * **Focus Area:** VLSI Design & Verification
 * **Development Tools:** Xilinx Vivado (XSim), SystemVerilog
 * **Languages Used:** Verilog HDL, SystemVerilog
