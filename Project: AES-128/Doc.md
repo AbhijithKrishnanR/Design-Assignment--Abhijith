@@ -76,11 +76,15 @@ Visual tracking mapping input valid declarations, internal processing states, an
 
 ### Pre-Latency Profiling
 Analysis of data path execution windows and pipeline dependencies prior to timing-driven constraint mapping.
-![Pre-Latency Profiles](./prelatency.png)
+
+<img width="1247" height="716" alt="image" src="https://github.com/user-attachments/assets/31eb4051-82a9-409d-93ab-306201ee5984" />
+
 
 ### Post-Latency Status
 Unified proof showing final timing safety parameters and cycle closure metrics over the active processing period.
-![Post-Latency Profiles](./postlatency.png)
+
+<img width="1252" height="702" alt="image" src="https://github.com/user-attachments/assets/03011baa-be30-4959-a0cf-2c7b72772baa" />
+
 
 The hardware executes one full 128-bit block encryption transaction in exactly **32 clock cycles** (320 ns processing latency under a standard 10 ns clock period) distributed across the following architectural cycles:
 1. **Cycle 1**: Input handshake and structural `AddRoundKey` preprocessing.
